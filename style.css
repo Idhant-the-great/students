@@ -1,0 +1,20 @@
+h2{
+    border-top: 2px;
+    border-bottom: 2px;
+    border-style: solid;
+    border-color: darkcyan;
+}
+#submit_button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sort_button {
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input {
+    margin: 10px;
+}
